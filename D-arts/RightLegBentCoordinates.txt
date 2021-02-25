@@ -1,0 +1,17 @@
+Hips
+rotation: 0,0,-9.595
+	LeftUpLeg
+	rotation: -0.079,-0.016,11.636
+		LeftLeg
+		rotation: 0.161,0,0
+			LeftFoot
+			rotation: -0.08000001,0,0
+	RightUpLeg
+	rotation: -15.591,-3.059,8.18
+		RightLeg
+		rotation: 30.125,1.613,0.39
+			RightFoot
+			rotation: -10.596,0.914,12.394
+Spine
+rotation: 0,0,10.728
+

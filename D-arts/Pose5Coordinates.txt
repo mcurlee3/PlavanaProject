@@ -1,0 +1,39 @@
+Hips
+rotation: x->0, y->0, z->-21.976
+	LeftUpLeg
+	rotation: x->-15.022, y->-39.534, z->22.247
+		LeftLeg
+		rotation: x->64.491, y->-2.893, z->7.051
+			LeftFoot
+			rotation: x->-37.599, y->-33.855, z->-3.692
+	RightUpLeg
+	rotation: x->-62.371, y->10.514, z->57.315
+		RightLeg
+		rotation: x->70.29601, y->100.15, z->63.019
+			RightFoot
+			rotation: x->-24.873, y->-17.568, z->31.185
+	Spine
+	rotation: x->6.31, y->1.545, z->8.429001
+		Spine1
+		rotation: x->-0.26, y->2.151, z->12.932
+			Spine2
+			rotation: x->0.004, y->-0.023, z->-0.198
+				LeftShoulder
+				rotation: x->0, y->0, z->0
+					LeftArm
+					rotation: x->57.64, y->51.061, z->55.658
+						LeftForeArm
+						rotation: x->-8.149, y->113.641, z->-1.719
+							LeftHand
+							rotation: x->0.026, y->0, z->0
+				RightShoulder
+				rotation: x->0.204, y->-9.365001, z->1.084
+					RightArm
+					rotation: x->5.179, y->-4.866, z->-41.434
+						RightForeArm
+						rotation: x->7.736001, y->-63.614, z->-54.234
+							RightHand
+							rotation: x->-11.815, y->-17.141, z->-12.204
+
+
+

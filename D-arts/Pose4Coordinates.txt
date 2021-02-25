@@ -1,0 +1,19 @@
+LeftUpLeg
+rotation: x->-39.22,y->-87.454,z->-1.564
+	LeftLeg
+	rotation: x->,y->,z->
+		LeftFoot
+		rotation: x->,y->,z->
+RightUpLeg
+rotation: x->,y->,z->
+	RightLeg
+	rotation: x->,y->,z->
+		RightFoot
+		rotation: x->,y->,z->
+
+LeftForeArm:
+rotation: x->,y->,z->
+
+RightForeArm:
+rotation: x->,y->,z->
+

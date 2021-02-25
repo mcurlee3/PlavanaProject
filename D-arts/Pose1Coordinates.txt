@@ -1,0 +1,44 @@
+LefhandThumb1
+rotation: x->-0.01, y-> 0.009, z->-0.009
+	LefhandThumb2
+	rotation: x->30.447, y->-24.291, z->-6.693
+		LefhandThumb3
+		rotation: x->42.099, y->-39.217, z->-15.597
+
+LeftHandRing1
+rotation: x->-0.021, y-> 0.025, z-> 79.427
+	LeftHandRing2
+	rotation: x->-0.023, y->0.026, z->83.79201
+		LeftHandRing3
+		rotation: x->-0.02, y->0.025, z->77.00201
+
+LeftHandPinky1
+rotation: x->-0.026, y->0.026, z->90.39001
+	LeftHandPinky2
+	rotation: x->-0.027, y->0.026, z->91.943
+		LeftHandPinky3
+		rotation: x->-3.332, y->4.237, z->76.09901
+
+LeftHandMiddle1
+rotation: x->-0.028, y->0.026, z->93.789
+	LeftHandMiddle2
+	rotation: x->-0.02, y->0.025, z->77.02901
+		LeftHandMiddle3
+		rotation: x->-0.021, y->0.025, z->79.132
+
+
+LeftHandIndex1
+rotation: x->-0.023, y->0.026, z->84.526
+	LeftHandIndex2
+	rotation: x->-0.027, y->0.026, z->93.51701
+		LeftHandIndex3
+		rotation: x->-0.018, y->0.025, z->72.929
+
+RightArm
+rotation: x->44.538, y->-41.6, z->-60.492
+	RightForeArm
+	rotation: x->-20.57, y->-87.27801, z->-6.173
+		RightHand
+		rotation: x->6.278, y->-4.246, z->-12.312
+	
+
